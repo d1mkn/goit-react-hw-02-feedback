@@ -1,0 +1,11 @@
+.buttonsWrap {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.feedbackButton {
+  height: 36px;
+  border-radius: 5px;
+  background-color: aliceblue;
+  font-weight: 600;
+}
